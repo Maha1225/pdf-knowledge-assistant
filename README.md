@@ -280,4 +280,4 @@ B.Tech CSE — Artificial Intelligence & Machine Learning
 
 GitHub: https://github.com/Maha1225
 
-LinkedIn: https://www.linkedin.com/in/mahalakshmi-murugesh-194749268
+LinkedIn: https://www.linkedin.com/in/mahalakshmimurugesh
